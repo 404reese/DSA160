@@ -1,3 +1,0 @@
-git add .
-git commit -m "Day xx"
-git push origin main
