@@ -45,5 +45,3 @@ the goal is to find the next lexicographically greater permutation of a given li
 
 3. **Reverse the suffix**:
    - Reverse the portion of the array after `k` to get the next smallest arrangement.
-
-
